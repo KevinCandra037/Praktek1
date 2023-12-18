@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Praktek1</string>
+    <string name="halo">Halo Dunia!</string>
+    <string name="dialog" translatable="false">Dialog</string>
+    <string name="fragment" translatable="false">Fragment</string>
+    <string name="activity" translatable="false">Activity</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="profil">Profil</string>
+    <string name="nama">Nama</string>
+    <string name="usia">Usia</string>
+    <string name="ulangi">Ulangi</string>
+    <string name="simpan">Simpan</string>
+    <string name="hitung">Hitung</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prcatice1</string>
+    <string name="halo">Hello World!</string>
+    <string name="deskripsi">Description</string>
+    <string name="profil">Profile</string>
+    <string name="nama">Name</string>
+    <string name="usia">Age</string>
+    <string name="ulangi">Refresh</string>
+    <string name="simpan">Save</string>
+    <string name="hitung">Calculate</string>
+</resources>
