@@ -11,4 +11,9 @@
     <string name="ulangi">Ulangi</string>
     <string name="simpan">Simpan</string>
     <string name="hitung">Hitung</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="nilai_1">Nilai 1</string>
+    <string name="nilai_2">Nilai 2</string>
+    <string name="detail_activity">Detail Activity</string>
+    <string name="selesai">Selesai</string>
 </resources>

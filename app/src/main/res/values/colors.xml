@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="primaryDay">#FF90BC</color>
-    <color name="SecondaryDay">#FFC0D9</color>
-    <color name="accentDay">#8ACDD7</color>
-    <color name="backgroundDay">#F9F9E0</color>
+    <color name="primary">#FF90BC</color>
+    <color name="secondary">#FFC0D9</color>
+    <color name="accent">#8ACDD7</color>
+    <color name="background">#F9F9E0</color>
 
-    <color name="primaryNight">#392467</color>
-    <color name="SecondaryNight">#A367B1</color>
-    <color name="accentNight">#FFD1E3</color>
-
-    <color name="darkGrey">#A9A9A9</color>
+    <color name="buttonColor" tools:ignore="MissingDefaultResource">#000</color>
 
 </resources>

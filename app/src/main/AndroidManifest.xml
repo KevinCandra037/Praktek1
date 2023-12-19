@@ -13,6 +13,15 @@
         android:theme="@style/Theme.Praktek1"
         tools:targetApi="31">
         <activity
+            android:name=".HitungActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

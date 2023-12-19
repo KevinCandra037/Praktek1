@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#392467</color>
+    <color name="secondary">#A367B1</color>
+    <color name="accent">#FFD1E3</color>
+
+    <color name="buttonColor" tools:ignore="MissingDefaultResource">#fff</color>
+</resources>
